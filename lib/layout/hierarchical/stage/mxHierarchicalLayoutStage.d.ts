@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * The specific layout interface for hierarchical layouts. It adds a
    * `run` method with a parameter for the hierarchical layout model

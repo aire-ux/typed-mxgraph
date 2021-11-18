@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxXmlCanvas2D extends mxAbstractCanvas2D {
     constructor(root: Element);
 

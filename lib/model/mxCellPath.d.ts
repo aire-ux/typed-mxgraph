@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Implements a mechanism for temporary cell Ids.
    * @class mxCellPath

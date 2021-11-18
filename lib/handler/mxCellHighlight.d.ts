@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * A helper class to highlight cells. Here is an example for a given cell.
    *

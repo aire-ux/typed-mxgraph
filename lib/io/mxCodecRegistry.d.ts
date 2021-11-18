@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Singleton class that acts as a global registry for codecs.
    *

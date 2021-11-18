@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Toolbar for the editor. This modifies the state of the graph
    * or inserts new cells upon mouse clicks.

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * XML HTTP request wrapper. See also: {@link mxUtils.get}, {@link mxUtils.post} and
    * {@link mxUtils.load}. This class provides a cross-browser abstraction for Ajax

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export class mxCellMarker extends mxEventSource {
     constructor(graph: mxGraph, validColor: string, invalidColor: string, hotspot: number);
 

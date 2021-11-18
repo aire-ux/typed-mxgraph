@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxEventSource} to implement an application wrapper for a graph that
    * adds {@link actions}, I/O using {@link mxCodec}, auto-layout using {@link mxLayoutManager},

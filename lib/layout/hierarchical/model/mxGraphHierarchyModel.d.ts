@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Internal model of a hierarchical graph. This model stores nodes and edges
    * equivalent to the real graph nodes and edges, but also stores the rank of the

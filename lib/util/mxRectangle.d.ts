@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxRectangle extends mxPoint {
     constructor(x: number, y: number, width: number, height: number);
 

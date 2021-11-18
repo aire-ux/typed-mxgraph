@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Creates a toolbar inside a given DOM node. The toolbar may contain icons,
    * buttons and combo boxes.

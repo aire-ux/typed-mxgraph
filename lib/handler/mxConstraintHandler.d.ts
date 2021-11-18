@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Handles constraints on connection targets. This class is in charge of
    * showing fixed points when the mouse is over a vertex and handles constraints

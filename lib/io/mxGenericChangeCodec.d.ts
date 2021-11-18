@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Codec for {@link mxValueChange}s, {@link mxStyleChange}s, {@link mxGeometryChange}s,
    * {@link mxCollapseChange}s and {@link mxVisibleChange}s. This class is created

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Generic codec for JavaScript objects that implements a mapping between
    * JavaScript objects and XML nodes that maps each field or element to an

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends mxShape to implement an ellipse shape.
    * This shape is registered under mxConstants.SHAPE_ELLIPSE in mxCellRenderer.

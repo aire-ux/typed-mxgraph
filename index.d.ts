@@ -8,7 +8,7 @@
 /// <reference path="./lib/view/index.d.ts" />
 /// <reference path="./lib/mxClient.d.ts" />
 
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export interface mxGraphExportObject {
     mxClient: typeof mxClient;
     mxLog: typeof mxLog;

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export interface _mxCompactTreeLayoutNode {
     cell?: mxCell;
     x?: number;

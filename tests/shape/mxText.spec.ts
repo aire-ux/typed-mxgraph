@@ -1,5 +1,5 @@
 /// <reference path="../../index.d.ts" />
-import factory, { mxGraphExportObject, mxRectangle, mxShape, mxText } from 'mxgraph';
+import factory, { mxGraphExportObject, mxRectangle, mxShape, mxText } from '@aire-ux/mxgraph';
 
 describe('mxText', () => {
   let mx: mxGraphExportObject;

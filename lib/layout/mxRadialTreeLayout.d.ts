@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxGraphLayout} to implement a radial tree algorithm. This
    * layout is suitable for graphs that have no cycles (trees). Vertices that are

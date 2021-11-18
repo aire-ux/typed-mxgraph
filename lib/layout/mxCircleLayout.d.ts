@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxCircleLayout {
     x0: number;
     y0: number;

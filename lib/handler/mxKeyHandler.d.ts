@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export class mxKeyHandler {
     /**
      * Constructs an event handler that executes functions bound to specific keystrokes.

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxPanningManager {
     constructor(graph: mxGraph);
     private thread: (handler: TimerHandler, timeout?: number, ...arguments: any[]) => number;

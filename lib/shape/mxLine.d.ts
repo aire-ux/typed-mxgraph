@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement a horizontal line shape.
    * This shape is registered under {@link mxConstants.SHAPE_LINE} in {@link mxCellRenderer}.

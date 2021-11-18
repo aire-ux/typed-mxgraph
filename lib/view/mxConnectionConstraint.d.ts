@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Defines an object that contains the constraints about how to connect one side of an edge to its terminal.
    * @class mxConnectionConstraint

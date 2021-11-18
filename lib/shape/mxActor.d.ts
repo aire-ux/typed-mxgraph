@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement an actor shape. If a custom shape with one
    * filled area is needed, then this shape's {@link redrawPath} method should be overridden.

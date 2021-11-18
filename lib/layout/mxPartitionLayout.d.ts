@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends <mxGraphLayout> for partitioning the parent cell vertically or
    * horizontally by filling the complete area with the child cells. A horizontal

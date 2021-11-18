@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Maintains the size of a div element in Internet Explorer. This is a
    * workaround for the right and bottom style being ignored in IE.

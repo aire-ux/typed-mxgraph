@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Sets the horizontal locations of node and edge dummy nodes on each layer.
    * Uses median down and up weighings as well as heuristics to straighten edges as

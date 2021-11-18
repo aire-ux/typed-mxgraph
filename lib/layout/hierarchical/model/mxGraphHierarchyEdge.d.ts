@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * An abstraction of a hierarchical edge for the hierarchy layout
    *

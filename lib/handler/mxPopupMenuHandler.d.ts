@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export class mxPopupMenuHandler extends mxPopupMenu {
     constructor(graph: mxGraph, factoryMethod?: (handler: mxPopupMenuHandler, cell: mxCell, me: mxMouseEvent) => any);
 

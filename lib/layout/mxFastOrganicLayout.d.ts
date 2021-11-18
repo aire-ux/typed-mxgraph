@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxFastOrganicLayout extends mxGraphLayout {
     /**
      * Specifies if the top left corner of the input cells should be the origin of the layout result.  Default is true.

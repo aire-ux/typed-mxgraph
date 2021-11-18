@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxCellState extends mxRectangle {
     constructor(view: mxGraphView, cell: mxCell, style: { [key: string]: any });
 

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement a rhombus (aka diamond) shape.
    * This shape is registered under {@link mxConstants.SHAPE_RHOMBUS} in {@link mxCellRenderer}.

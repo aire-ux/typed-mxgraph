@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxEventSource} to implement a graph component for
    * the browser. This is the main class of the package. To activate

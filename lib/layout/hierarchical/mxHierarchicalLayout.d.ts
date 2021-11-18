@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export const mxHierarchicalEdgeStyle: {
     ORTHOGONAL: 1;
     POLYLINE: 2;

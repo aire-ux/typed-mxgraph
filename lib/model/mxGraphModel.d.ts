@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxEventSource} to implement a graph model. The graph model acts as
    * a wrapper around the cells which are in charge of storing the actual graph

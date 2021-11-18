@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Creates a new image export instance to be used with an export canvas. Here
    * is an example that uses this class to create an image via a backend using

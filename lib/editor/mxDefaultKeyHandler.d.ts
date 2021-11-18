@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Binds keycodes to actionnames in an editor.  This aggregates an internal {@link handler} and extends the implementation of {@link mxKeyHandler.escape} to not only cancel the editing, but also hide the properties dialog and fire an <mxEditor.escape> event via {@link editor}.  An instance of this class is created by {@link mxEditor} and stored in {@link mxEditor.keyHandler}.
    *

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * This type does not exist in the mxGraph JavaScript code. It is inferred from the actual implementation
    * @internal

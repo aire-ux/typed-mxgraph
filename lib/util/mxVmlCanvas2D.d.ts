@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Implements a canvas to be used for rendering VML. Here is an example of implementing a
    * fallback for SVG images which are not supported in VML-based browsers.

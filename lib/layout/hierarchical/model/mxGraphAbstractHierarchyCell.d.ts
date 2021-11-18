@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * An abstraction of an internal hierarchy node or edge
    * @class mxGraphAbstractHierarchyCell

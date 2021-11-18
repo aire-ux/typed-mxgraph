@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement a connector shape.
    * The connector shape allows for arrow heads on either side.

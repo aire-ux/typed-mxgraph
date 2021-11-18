@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Optional global config variable to toggle loading of the two resource files in mxGraph and mxEditor.
    * Default is true.

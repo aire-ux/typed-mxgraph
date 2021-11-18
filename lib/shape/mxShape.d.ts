@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Base class for all shapes.
    * A shape in mxGraph is a separate implementation for SVG, VML and HTML.

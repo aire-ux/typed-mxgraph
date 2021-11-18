@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxUtils {
     /**
      * Returns the remainder of division of n by m. You should use this instead

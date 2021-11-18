@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxImage {
     constructor(src: string, width: number, height: number);
 

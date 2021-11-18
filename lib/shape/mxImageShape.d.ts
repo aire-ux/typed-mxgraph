@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement an image shape.
    * This shape is registered under {@link mxConstants.SHAPE_IMAGE} in {@link mxCellRenderer}.

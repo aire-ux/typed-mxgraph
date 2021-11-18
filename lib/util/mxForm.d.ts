@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   type FormFieldType = HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement;
   /**
    * A simple class for creating HTML forms.

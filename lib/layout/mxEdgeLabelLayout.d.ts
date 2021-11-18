@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends <mxGraphLayout> to implement an edge label layout. This layout
    * makes use of cell states, which means the graph must be validated in

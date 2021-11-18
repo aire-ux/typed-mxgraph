@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * XML codec for JavaScript object graphs. See {@link mxObjectCodec} for a
    * description of the general encoding/decoding scheme. This class uses the

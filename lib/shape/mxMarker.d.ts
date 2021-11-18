@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * A static class that implements all markers for VML and SVG using a registry.
    * NOTE: The signatures in this class will change.

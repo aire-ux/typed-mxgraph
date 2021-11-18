@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement an new rounded arrow shape with support for waypoints and double arrows. The
    * shape is used to represent edges, not vertices.

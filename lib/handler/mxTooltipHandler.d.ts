@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export class mxTooltipHandler {
     constructor(graph: mxGraph, delay?: number);
 

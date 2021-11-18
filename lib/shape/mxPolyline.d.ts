@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxPolyline extends mxShape {
     /**
      * Constructs a new polyline shape.

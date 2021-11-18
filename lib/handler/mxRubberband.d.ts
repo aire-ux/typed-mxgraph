@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Event handler that selects rectangular regions.
    * This is not built-into [mxGraph].

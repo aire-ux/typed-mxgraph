@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export class mxPanningHandler extends mxEventSource {
     constructor(graph: mxGraph);
 

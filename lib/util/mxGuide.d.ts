@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   class mxGuide {
     constructor(graph: mxGraph, states: Array<mxCellState | mxPoint>);
 

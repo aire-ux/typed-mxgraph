@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends {@link mxShape} to implement an cylinder shape. If a custom shape with one filled area and an overlay path is
    * needed, then this shape's {@link redrawPath} should be overridden.

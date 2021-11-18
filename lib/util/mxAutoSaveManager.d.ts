@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Manager for automatically saving diagrams. The <save> hook must be
    * implemented.

@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Implements internationalization. You can provide any number of
    * resource files on the server using the following format for the

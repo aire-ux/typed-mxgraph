@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   export class mxEdgeSegmentHandler extends mxEdgeHandler {
     constructor(state: mxCellState);
 

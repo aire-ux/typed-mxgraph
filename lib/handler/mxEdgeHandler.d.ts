@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Graph event handler that reconnects edges and modifies control points and the edge
    * label location.

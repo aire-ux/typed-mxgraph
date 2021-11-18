@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Cells are the elements of the graph model. They represent the state
    * of the groups, vertices and edges in a graph.

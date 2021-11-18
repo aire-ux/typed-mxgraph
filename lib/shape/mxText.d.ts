@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * Extends mxShape to implement a text shape.
    * To change vertical text from bottom to top to top to bottom,

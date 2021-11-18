@@ -1,4 +1,4 @@
-declare module 'mxgraph' {
+declare module '@aire-ux/mxgraph' {
   /**
    * An implementation of the first stage of the Sugiyama layout. Straightforward
    * longest path calculation of layer assignment
